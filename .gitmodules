@@ -16,3 +16,6 @@
 [submodule "submodules/teatypes"]
 	path = submodules/teatypes
 	url = https://github.com/teaspillstudios/teatypes
+[submodule "submodules/mui"]
+	path = submodules/mui
+	url = https://github.com/rxi/microui
