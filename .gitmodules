@@ -1,0 +1,15 @@
+[submodule "submodules/teapalette"]
+	path = submodules/teapalette
+	url = https://github.com/teaengine/teapalette
+[submodule "submodules/nelua-decl"]
+	path = submodules/nelua-decl
+	url = https://github.com/edubart/nelua-decl
+[submodule "submodules/nelua-batteries"]
+	path = submodules/nelua-batteries
+	url = https://github.com/edubart/nelua-batteries
+[submodule "submodules/teainform"]
+	path = submodules/teainform
+	url = https://github.com/teaengine/teainform
+[submodule "submodules/teautils"]
+	path = submodules/teautils
+	url = https://github.com/teaengine/teautils
