@@ -19,3 +19,6 @@
 [submodule "submodules/mui"]
 	path = submodules/mui
 	url = https://github.com/rxi/microui
+[submodule "submodules/nelua-raylib"]
+	path = submodules/nelua-raylib
+	url = https://github.com/AbdulKalam21/nelua-raylib
