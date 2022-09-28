@@ -7,6 +7,7 @@ copymodules:
 	cp -ru ./submodules/teainform/teainform/ ./src/teainform/
 	cp -ru ./submodules/teapalette/teapalette/ ./src/teapalette/
 	cp -ru ./submodules/teautils/teautils/ ./src/teautils/
+	cp -ru ./submodules/mui/ ./src/microui/
 
 cleanmodules:
 	rm -rf ./src/teatypes/
@@ -15,3 +16,4 @@ cleanmodules:
 	rm -rf ./src/teainform/
 	rm -rf ./src/teapalette/
 	rm -rf ./src/teautils/
+	rm -rf ./src/microui
