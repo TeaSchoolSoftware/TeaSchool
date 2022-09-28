@@ -1,9 +1,9 @@
 # Submodules
-*fs*
-*microui*
-*teainform*
-*teapalette*
-*teautils*
+fs*
+microui*
+teainform*
+teapalette*
+teautils*
 
 # Prerequisites
 *.d
