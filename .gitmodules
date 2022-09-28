@@ -13,9 +13,6 @@
 [submodule "submodules/teautils"]
 	path = submodules/teautils
 	url = https://github.com/teaengine/teautils
-[submodule "submodules/teatypes"]
-	path = submodules/teatypes
-	url = https://github.com/teaspillstudios/teatypes
 [submodule "submodules/mui"]
 	path = submodules/mui
 	url = https://github.com/rxi/microui
